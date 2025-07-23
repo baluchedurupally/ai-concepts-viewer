@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css'; // Import your main CSS file (where Tailwind directives are)
-import App from './app'; // Import your App component
+import App from './App'; // Import your App component
 
 // Create a root to render your React application
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // Render the App component into the root
 root.render(
   <React.StrictMode>
-    <app />
+    <App />
   </React.StrictMode>
 );
 
