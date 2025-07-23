@@ -1,1 +1,1 @@
-# ai-concepts-app
+# ai-concepts-viewer
