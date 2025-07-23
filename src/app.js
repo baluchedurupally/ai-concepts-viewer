@@ -463,11 +463,6 @@ const App = () => {
 
   return (
     <div className="font-sans antialiased bg-gray-100 min-h-screen p-4 md:p-8 flex flex-col items-center">
-      {/* Tailwind CSS CDN script */}
-      <script src="https://cdn.tailwindcss.com"></script>
-      {/* Inter font CDN link */}
-      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
-
       {/* Main container for the app */}
       <div className="bg-white rounded-xl shadow-lg w-full max-w-7xl flex flex-col md:flex-row overflow-hidden">
         {/* Left Panel: List of Concepts with Search and Scrolling */}
