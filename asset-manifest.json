@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ai-concepts-viewer/static/css/main.572a4366.css",
-    "main.js": "/ai-concepts-viewer/static/js/main.e199a6b0.js",
+    "main.css": "/ai-concepts-viewer/static/css/main.06dff549.css",
+    "main.js": "/ai-concepts-viewer/static/js/main.b3aceade.js",
     "index.html": "/ai-concepts-viewer/index.html",
-    "main.572a4366.css.map": "/ai-concepts-viewer/static/css/main.572a4366.css.map",
-    "main.e199a6b0.js.map": "/ai-concepts-viewer/static/js/main.e199a6b0.js.map"
+    "main.06dff549.css.map": "/ai-concepts-viewer/static/css/main.06dff549.css.map",
+    "main.b3aceade.js.map": "/ai-concepts-viewer/static/js/main.b3aceade.js.map"
   },
   "entrypoints": [
-    "static/css/main.572a4366.css",
-    "static/js/main.e199a6b0.js"
+    "static/css/main.06dff549.css",
+    "static/js/main.b3aceade.js"
   ]
 }
